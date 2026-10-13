@@ -19,7 +19,7 @@ for _ in range(12):
 t.penup()
 t.goto(0, -15)
 t.pendown()
-t.color("orange", "gold")
+t.color("orange", "red")
 t.begin_fill()
 t.circle(15)
 t.end_fill()
